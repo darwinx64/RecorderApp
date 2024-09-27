@@ -1,7 +1,4 @@
-# DO NOT USE THIS
-I feel like I don't need to point this out. Do not use it. This is the first time I have EVER used python or even ffmpeg for that matter. I was incredibly ambitious. It uses tkinter and is absolutely horrid.
-
-I made it in a single day trying to make a simple quick user friendly alternative to OBS. I think the idea is pretty fun- and it was pretty fun to work on, so I may try this again at some point.
+https://github.com/user-attachments/assets/ec72eb2d-0e2d-400d-9f9b-d51b98ee2022
 
 ## Dependencies
 [Python 3.12](https://www.python.org/)
